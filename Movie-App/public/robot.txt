@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://prashant-movie.netlify.app/sitemap.xml
